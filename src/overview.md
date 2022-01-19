@@ -48,7 +48,7 @@ You can find more information on contributions in the [README](https://github.co
 
 The book is divided into several higher-level topics. Each topic has several sub-topics that are individual pages or chapters.
 
-Thos chapters have a similar structure:
+Those chapters have a similar structure:
 
 **Title**
 
